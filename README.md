@@ -1,4 +1,4 @@
-# Shoot'em Up game Unity PC
+# Shoot'em Up game Unity PC :video_game: :alien:
 Jogo estilo Shoot'em up desenvolvido na Unity conta com um boss que é spawnado quando atinge 200 pontos
 Pontuação para spawn do boss configurável direto no objeto GameManeger na unity
 
